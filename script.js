@@ -6,8 +6,8 @@ for(let i = 0; i<numOfTimes; i++){
     singlecell.textContent = "hello";
     singlecell.style.color = "white";
     singlecell.classList.add("bg-red");
-    singlecell.addEventListener('click',() => { 
-       alert("hello World");
+    singlecell.addEventListener('mouseover',() => { 
+        singlecell.classList.add("bg-cyan");
     });
     gridContainer.appendChild(singlecell);
 }
