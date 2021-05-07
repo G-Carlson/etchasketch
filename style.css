@@ -2,12 +2,12 @@
     background-color: rgb(250, 2, 138);
 }
 .bg-blue{
-    background-color: hsla(241, 98%, 49%, 0.61);
+    background-color: hsl(187, 98%, 49%);
 }
 .bg-cyan{
-    background-color: hsl(192, 90%, 61%);
+    background-color: hsl(249, 100%, 47%);
 }
 #grid-container{
     display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto ;
 }
