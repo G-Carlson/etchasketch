@@ -1,11 +1,11 @@
 .bg-red{
-    background-color: rgb(250, 2, 138);
+    background-color: black;
 }
 .bg-blue{
     background-color: hsl(187, 98%, 49%);
 }
 .bg-cyan{
-    background-color: hsl(249, 100%, 47%);
+    background-color: hsl(249, 88%, 34%);
 }
 #grid-container{
     display: grid;
